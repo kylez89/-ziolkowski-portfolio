@@ -1,0 +1,58 @@
+.red {
+	margin-left: 50px;
+	margin-bottom: 50px;
+	font-family: Arial, Arial;
+	color: red;
+]
+
+#rogue {
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: Verdana, sans-serif;
+	color: blue;
+	font-family: Arial;
+}
+.square {
+	height: 500px;
+	width: 500px;
+	font-family: Arial;
+	color: blue;
+}
+#serious {
+	font-family: Courier;
+	color:#CC0000;
+}
+
+.JordanSpieth {
+	background-color: blue;
+}
+
+.DustinJohnson {
+	background-color: blue;
+}
+
+.RickyFowler{
+	background: blue;
+}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+    background-color: purple;
+}
+
